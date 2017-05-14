@@ -4,7 +4,8 @@ A Simple Github website for minecraft models sharing.
 
 # How to download models ?
 
-1/ Go in this website : [Click on me](http://zskxxx.github.io/modelsshare
+1/ Go in this website : http://zskxxx.github.io/modelsshare
+
 2/ Just download your model !
 
 # It's free ?
